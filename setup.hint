@@ -1,4 +1,0 @@
-category: Perl X11
-requires: libcairo2 libglib2.0_0 perl perl-Cairo perl-Glib
-sdesc: "Perl bindings to the cairo GObject interface"
-ldesc: "Perl bindings to the cairo graphics library"

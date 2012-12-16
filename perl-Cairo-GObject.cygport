@@ -1,0 +1,8 @@
+inherit gtk2-perl
+
+NAME="perl-Cairo-GObject"
+VERSION=1.001
+RELEASE=1
+CATEGORY="Perl"
+REQUIRES="libcairo2 libglib2.0_0 perl perl-Cairo perl-Glib"
+SUMMARY="Perl bindings to the cairo GObject interface"
