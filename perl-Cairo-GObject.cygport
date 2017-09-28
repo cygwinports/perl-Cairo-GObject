@@ -2,6 +2,6 @@ inherit gtk2-perl
 
 NAME="perl-Cairo-GObject"
 VERSION=1.004
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl bindings to the cairo GObject interface"
